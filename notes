@@ -1,0 +1,9 @@
+module not found error for ipynb files
+
+1. "%pip freeze" in a python cell to check the installed libraries using this code in a notebook cell
+
+
+some rows have werid values, latitude=999,999
+g 1974 01 13 09 09 30    318           0     0     0     0 999999 999999 999999 999999 999999
+
+should I include hour, minute, second?
