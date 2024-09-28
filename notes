@@ -7,3 +7,17 @@ some rows have werid values, latitude=999,999
 g 1974 01 13 09 09 30    318           0     0     0     0 999999 999999 999999 999999 999999
 
 should I include hour, minute, second?
+
+
+
+# row[1] = year
+# row[2] = month
+# row[3] = day
+# row[4] = hour
+# row[5] = minute
+# row[6] = second
+# row[7] = sunspot group number
+# row[12] = sunspot latitude
+
+g 1974 02 18 14 20 30    347          21   160    21   160 -16.03 204.95  61.11 255.49 0.8711
+
