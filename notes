@@ -21,3 +21,19 @@ should I include hour, minute, second?
 
 g 1974 02 18 14 20 30    347          21   160    21   160 -16.03 204.95  61.11 255.49 0.8711
 
+
+MAIN IDEA: how does sunspot type affect behavior
+
+specola graph does not have info on area, so no area/density graph can be made with it 
+
+things i can graph?
+
+1. density or area of different sunspot types
+2. track the path of sunspot types, have the graph show gradient lines to show the general direction 
+   of where sunspots move
+3. why are there no F types at solar minimum?
+4. how does lifespan relate to location/latitude
+
+
+what i can analyze so far
+- types E and F dont appear within 5 degrees latitude of equator
